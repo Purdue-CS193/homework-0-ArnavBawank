@@ -1,4 +1,8 @@
+# Arnav Bawankule's First CS193 Homework
 ## Welcome to GitHub Pages
+- Some things that I think are good about this class:
+- I've heard this class is an easier class than CS180
+- It'll teach me some real-world aspects of CS!
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -9,14 +13,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Syntax-highlighted code block
 
-# Header 1
+
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- I've heard it's an easier class than CS180
+- It'll teach me some real-world aspects of CS!
 
 1. Numbered
 2. List
